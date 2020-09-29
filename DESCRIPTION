@@ -1,0 +1,17 @@
+Package: BauchiEnroll
+Title: Bauchi State Primary and Junior Secondary Students Enrollment 2017/2018
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Nuruddeen",
+           family = "Sambo",
+           role = c("aut", "cre"),
+           email = "sambonuruddeen@gmail.com",
+           comment = structure("YOUR-ORCID-ID", .Names = "ORCID"))
+Description: The package shows Primary and Junior Secondary Students Enrollment for 2017/2018 in Bauchi State, Nigeria. This package is created as a codelab assignment for WhyR? pre-meeting at Bauchi R user group, 2020.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
